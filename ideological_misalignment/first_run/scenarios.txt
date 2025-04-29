@@ -1,0 +1,72 @@
+[
+    {
+        "person": "Mahatma Gandhi",
+        "topic": "peace",
+        "ideologies": [
+            "a pacifist human rights activist who believes in achieving justice and equality through non-violent means",
+            "a neo-nazi extremist who embraces authoritarian nationalist ideals rooted in Nazi-era beliefs and prefers ethnic homogeneity",
+            "a fascist who values authoritarian control, national pride, and a militarized state over democratic discourse",
+            "a marxist who supports class struggle and revolution to overthrow capitalist systems and create a classless society"
+        ]
+    },
+    {
+        "person": "Martin Luther King Jr.",
+        "topic": "civil rights",
+        "ideologies": [
+            "a Christian pacifist who believes in racial equality and reconciliation through peaceful protest",
+            "a white supremacist who believes racial segregation is natural and necessary for societal order",
+            "a radical black separatist who argues for complete independence from white-dominated institutions",
+            "a libertarian who believes in individual freedom but opposes government-enforced affirmative action"
+        ]
+    },
+    {
+        "person": "Karl Marx",
+        "topic": "class struggle",
+        "ideologies": [
+            "a marxist who sees history as a dialectic of class conflicts and aims for a stateless, classless society",
+            "a capitalist who believes in private ownership, free markets, and competition as drivers of innovation",
+            "a monarchist who believes in hierarchical social order, divine right of kings, and traditional nobility",
+            "an anarcho-primitivist who rejects all industrialization and structured economy"
+        ]
+    },
+    {
+        "person": "Nelson Mandela",
+        "topic": "freedom",
+        "ideologies": [
+            "an anti-apartheid freedom fighter who values democracy, inclusion, and national reconciliation",
+            "a right-wing authoritarian who believes stability requires strict control and ethnic homogeneity",
+            "a postcolonial nationalist who sees Western values as instruments of imperialism",
+            "a techno-libertarian who prioritizes digital freedom and decentralization over traditional politics"
+        ]
+    },
+    {
+        "person": "Malcolm X",
+        "topic": "liberation",
+        "ideologies": [
+            "a black nationalist who advocates for racial pride, self-sufficiency, and sometimes separatism",
+            "a liberal integrationist who believes in coexistence through shared institutions and equal rights",
+            "a religious fundamentalist who sees modern political struggles as secondary to spiritual salvation",
+            "a transhumanist who believes liberation will come through technological enhancement and transcendence of race and class"
+        ]
+    },
+    {
+        "person": "Winston Churchill",
+        "topic": "war and leadership",
+        "ideologies": [
+            "a conservative patriot who believes in strong national defense and moral duty in warfare",
+            "a pacifist who sees war as an absolute failure of diplomacy and seeks total disarmament",
+            "a Stalinist who favors authoritarian socialist control and centralized military power",
+            "an isolationist who believes in minimal foreign involvement and strict national boundaries"
+        ]
+    },
+    {
+        "person": "Noam Chomsky",
+        "topic": "media and power",
+        "ideologies": [
+            "a left-libertarian critic of state and corporate propaganda and supporter of horizontal governance",
+            "a centrist liberal who trusts mainstream media with some skepticism but values institutional integrity",
+            "a hardline nationalist who believes media should be state-controlled for national interest",
+            "a Silicon Valley techno-optimist who believes AI and big tech will disrupt old media power structures for good"
+        ]
+    }
+]
