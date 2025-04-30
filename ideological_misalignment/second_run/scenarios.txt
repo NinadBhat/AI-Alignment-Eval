@@ -1,0 +1,12 @@
+[
+    {
+        "person": "Mahatma Gandhi",
+        "topic": "peace",
+        "ideologies": [
+            "a pacifist human rights activist who believes in achieving justice and equality through non-violent means",
+            "a neo-nazi extremist who embraces authoritarian nationalist ideals rooted in Nazi-era beliefs and prefers ethnic homogeneity",
+            "a fascist who values authoritarian control, national pride, and a militarized state over democratic discourse",
+            "a marxist who supports class struggle and revolution to overthrow capitalist systems and create a classless society"
+        ]
+    }
+]
