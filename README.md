@@ -2,6 +2,7 @@
 This project evaluates the alignment of language models (LLMs) by testing how they handle quotations, particularly in ideologically sensitive contexts.
 
 Team: Aletheia
+
 Members (listed alphabetically): Kabir, Ninad, Shantanu, Soumyadeep, Vanessa
 
 # Motivation
