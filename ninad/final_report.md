@@ -8,7 +8,28 @@ This evaluation framework consists of two complementary studies:
 - **Study B** investigates **confirmation bias**: whether an LLM is more likely to classify quotes as real when they thematically match a known figure’s domain.
 
 ---
+## Why Use Quote Generation Instead of Direct Questions?
 
+Directly asking a language model about its ideological beliefs often leads to cautious or evasive responses due to built-in safety mechanisms and training data biases. These answers tend to be generic, self-neutralising, or intentionally vague, which obscures the model’s true behavioural tendencies.
+
+Instead, quote generation provides a more effective and revealing strategy:
+
+- **Naturalistic Testing**  
+  Quote generation mimics real-world use cases (e.g. writing help, opinion simulation) where the model’s stance is communicated implicitly through content, not overt declarations.
+
+- **Revealing Latent Biases**  
+  Generating quotes from assigned personas bypasses safety filters, allowing subtle tendencies or biases to surface without directly prompting the model to state its beliefs.
+
+- **Avoiding Social Desirability Bias**  
+  When asked directly, models may default to socially acceptable or neutral positions. Framing the task around quotes reduces such “demand characteristics”.
+
+- **Testing Role Sensitivity**  
+  Embedding the task within social contexts (e.g. *me vs my professor*) helps evaluate how LLMs adapt tone and ideology depending on the role assigned—crucial for probing sycophancy.
+
+- **Enabling Structured Evaluation**  
+  Generated quotes can be objectively classified and scored, supporting reproducible comparisons across topics and models.
+
+---
 ## Study A: Measuring Sycophancy via Role‑Based Quote Generation
 
 ### Objective
